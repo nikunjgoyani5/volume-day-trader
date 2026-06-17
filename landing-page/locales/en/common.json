@@ -1,0 +1,610 @@
+{
+    "navbar": {
+        "features": "Features",
+        "pricing": "Pricing",
+        "community": "Community",
+        "howIndicatorsWork": "How Indicators Work",
+        "blog": "Blog",
+        "contact": "Contact",
+        "signIn": "Sign In"
+    },
+    "hero": {
+        "newBadge": "New",
+        "badge": "All-in-One Trade Courses Platform",
+        "leftTopTag": "Smart Market Analysis",
+        "leftBottomTag": "Real-Time Trading Signals",
+        "rightTopTag": "Premium Trading Courses",
+        "rightBottomTag": "Advanced Trading Indicators",
+        "title": "Stop Guessing. Start Trading With Confidence.",
+        "description": "Learn Wyckoff-based volume analysis, get premium indicators, PTA signals, market analysis, and trading education in one platform.",
+        "primaryButton": "Get Access",
+        "secondaryButton": "How It Works"
+    },
+    "services": {
+        "badge": "Our Services",
+        "title": "What Will You Get When You Trade With Us?",
+        "description": "Professional trading tools, market insights, and structured learning designed for smarter trading decisions.",
+        "cards": {
+            "ptaSignals": {
+                "title": "PTA Signals",
+                "desc": "Get structured Potential Trading Area reports with real-time market insights and trading opportunities."
+            },
+            "marketAnalysis": {
+                "title": "Market Analysis",
+                "desc": "Daily Forex, Crypto, Stocks, Futures, and Indices analysis powered by volume and structure."
+            },
+            "premiumIndicators": {
+                "title": "Premium Indicators",
+                "desc": "Professional Wyckoff-based volume indicators built for smarter chart analysis and market understanding."
+            },
+            "tradingCourses": {
+                "title": "Trading Courses",
+                "desc": "Learn Wyckoff, VSA, Price Action, and structured trading concepts through guided education."
+            },
+            "tradingCommunity": {
+                "title": "Trading Community",
+                "desc": "Join a focused trading community for discussions, insights, updates, and market learning."
+            },
+            "practicalSessions": {
+                "title": "Practical Sessions",
+                "desc": "Analyze real market examples and improve decision-making through practical trading exercises."
+            }
+        }
+    },
+    "trust": {
+        "badge": "Trust",
+        "title": "Trusted By Traders Focused On Smarter Market Analysis",
+        "description": "Professional indicators, PTA reports, market insights, and educational trading tools designed to help traders understand market behavior with more structure and confidence.",
+        "stats": {
+            "activeTraders": {
+                "value": "14,200+",
+                "title": "Active Traders",
+                "desc": "A growing trading community focused on structured analysis, market education, and volume-based trading strategies."
+            },
+            "userSatisfaction": {
+                "value": "82%",
+                "title": "User Satisfaction",
+                "desc": "Built around structured market analysis and educational resources designed to improve trading clarity and confidence."
+            },
+            "communityRating": {
+                "value": "4.7",
+                "title": "Community Rating",
+                "desc": "Trusted by traders for professional indicators, PTA reports, and volume-based market analysis workflows."
+            },
+            "globalCommunity": {
+                "value": "14,200+",
+                "title": "Global Trading",
+                "desc": "Access educational trading content, indicators, and market insights anytime from anywhere in the world."
+            }
+        }
+    },
+    "signals": {
+        "badge": "Signals & Indicators",
+        "title": "Daily PTA Reports & Wyckoff Volume Indicators",
+        "description": "See how Volume Day Trader helps traders identify potential trading areas, read market volume, and understand price movement with structured reports and professional indicators.",
+        "cards": {
+            "ptaReports": {
+                "title": "Daily PTA Signal Reports",
+                "desc": "Get structured Potential Trading Area reports with volume analysis, momentum insights, and real-time market observations across Forex, Crypto, Stocks, and Indices."
+            },
+            "wyckoffIndicators": {
+                "title": "Wyckoff Wave Indicators",
+                "desc": "Professional volume-based indicators designed to help traders identify demand, supply, liquidity behavior, and market participation more clearly."
+            },
+            "marketAnalysis": {
+                "title": "Market Analysis & Insights",
+                "desc": "Daily market breakdowns covering trend structure, momentum shifts, and important trading zones backed by volume-based analysis."
+            },
+            "tradingEducation": {
+                "title": "Trading Courses & Education",
+                "desc": "Learn Wyckoff methodology, VSA, market structure, and disciplined trading concepts through practical educational resources and real market examples."
+            }
+        }
+    },
+    "ptaReports": {
+        "badge": "PTA Signal Reports",
+        "title": "How Do PTA (Potential Trading Area) Signals Work?",
+        "description": "PTA signals analyze volume behavior and market structure to highlight potential buy zones, liquidity areas, and momentum shifts for tactical trading decisions.",
+        "cards": {
+            "buyZoneDetection": {
+                "title": "PTA Buy Zone Detection",
+                "desc": "Highlights probable buy zones by combining structured volume with recent price action to surface areas where buying pressure may resume."
+            },
+            "liquidityAnalysis": {
+                "title": "Volume & Liquidity Analysis",
+                "desc": "Analyzes volume clusters and liquidity to indicate potential breakout or distribution regions and assess trade conviction."
+            },
+            "marketStructureMapping": {
+                "title": "Market Structure Mapping",
+                "desc": "Tracks key support and resistance zones based on volume concentration and historical reactions."
+            },
+            "momentumConfirmation": {
+                "title": "Momentum Confirmation",
+                "desc": "Identifies momentum shifts using volume expansion and directional strength."
+            }
+        }
+    },
+    "indicators": {
+        "badge": "Indicator System",
+        "title": "Wyckoff Wave Volume Indicators",
+        "description": "Professional volume-based indicators designed to help traders understand momentum, liquidity, demand, supply, and market structure with more clarity and confidence.",
+        "cards": {
+            "waveIndicator": {
+                "title": "Wyckoff Wave Volume Indicator",
+                "desc": "The indicator helps traders identify buying and selling pressure by analyzing cumulative volume and market participation directly on the chart. Detect demand and supply strength Understand buyer vs seller pressure Identify momentum shifts Analyze volume-based market behavior",
+                "slide1": {
+                    "point1": "Detect demand and supply strength",
+                    "point2": "Understand buyer vs seller pressure",
+                    "point3": "Identify momentum shifts",
+                    "point4": "Analyze volume-based market behavior"
+                },
+                "slide2": {
+                    "subtitle": "Read market turning points with structure-focused wave behavior and highlighted distribution or absorption zones.",
+                    "point1": "Track reaction highs and lows",
+                    "point2": "Spot distribution range areas",
+                    "point3": "Flag breakdown risk zones",
+                    "point4": "Improve structured market timing"
+                }
+            }
+        }
+    },
+    "testimonials": {
+        "badge": "Testimonials",
+        "title": "Trusted By Traders Worldwide",
+        "description": "Experiences from traders using volume-based analysis and structured workflows.",
+        "items": [
+            {
+                "quote": "Before using CVeeBee, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
+                "author": "Alena Vetrovs"
+            },
+            {
+                "quote": "Before using CVeeBee, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
+                "author": "Carla Levin"
+            },
+            {
+                "quote": "Before using CVeeBee, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
+                "author": "Carter Franci"
+            },
+            {
+                "quote": "Before using CVeeBee, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
+                "author": "Jacob Rosser"
+            },
+            {
+                "quote": "Before using CVeeBee, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
+                "author": "Makenna Lipshutz"
+            },
+            {
+                "quote": "Before using CVeeBee, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
+                "author": "Sophie Hines"
+            }
+        ]
+    },
+    "ourIndicators": {
+        "badge": "Our Indicators",
+        "title": "Wyckoff Wave Volume Indicators Built For Smarter Market Analysis",
+        "description": "Professional volume-based indicators designed to help traders understand demand, supply, momentum, and market structure through structured chart analysis and real-time market behavior.",
+        "tabs": {
+            "volumeEdge": "Volume Edge",
+            "smartProfits": "Smart Profits",
+            "hiddenStrategy": "Hidden Strategy"
+        },
+        "imageAlt": "Two traders analyzing charts together",
+        "contentByTab": {
+            "volumeEdge": {
+                "title": "Wyckoff Wave Volume Indicators For Smart Market Analysis",
+                "description": "The Wyckoff Wave Volume Indicator helps traders analyze real buying and selling pressure by visualizing cumulative volume directly on the chart.",
+                "points": {
+                    "point1": "Understand demand and supply strength",
+                    "point2": "Detect buyer vs seller pressure",
+                    "point3": "Analyze momentum shifts more clearly",
+                    "point4": "Identify stronger market participation",
+                    "point5": "Improve structured decision-making",
+                    "point6": "Reduce emotional trading behavior"
+                }
+            },
+            "smartProfits": {
+                "title": "Understand Market Structure With More Clarity",
+                "description": "Built to help traders better understand trend continuation, reversals, liquidity zones, and market reactions using structured volume interpretation.",
+                "points": {
+                    "point1": "Recognize possible market reversals",
+                    "point2": "Understand trend continuation behavior",
+                    "point3": "Analyze liquidity and momentum zones",
+                    "point4": "Improve trade timing and structure",
+                    "point5": "Follow clearer chart interpretation",
+                    "point6": "Support disciplined trading workflows"
+                }
+            },
+            "hiddenStrategy": {
+                "title": "Follow Volume, Liquidity & Smart Money Behavior",
+                "description": "Inspired by Wyckoff methodology and volume behavior analysis, the indicator ecosystem is designed to simplify complex market movement into actionable visual insights.",
+                "points": {
+                    "point1": "Learn how professionals read the market",
+                    "point2": "Understand accumulation & distribution",
+                    "point3": "Visualize market participation more clearly",
+                    "point4": "Follow structured volume analysis",
+                    "point5": "Improve market awareness and confidence",
+                    "point6": "Designed for Forex, Crypto, Stocks & Indices"
+                }
+            }
+        }
+    },
+    "pricing": {
+        "badge": "Pricing",
+        "title": "Choose Your Trading Experience",
+        "description": "Flexible access options designed for traders at different stages.",
+        "plans": {
+            "wyckoffIndicators": {
+                "tag": "Best Indicators",
+                "title": "Wyckoff Indicators",
+                "duration": "Monthly",
+                "price": "$67",
+                "note": "No contracts. Cancel anytime.",
+                "button": "Buy Now",
+                "includedTitle": "What's Included:",
+                "features": {
+                    "feature1": "Cumulative Volume Indicator: \"Wyckoff Wave Volume\"",
+                    "feature2": "Cumulative Volume Indicator: \"Wyckoff Wave Chart\"",
+                    "feature3": "Indicators run on the platform: Tradingview",
+                    "feature4": "Instructions for installing and adjusting the indicator to different values"
+                }
+            },
+            "monthlyAccess": {
+                "tag": "Recurring Payment",
+                "title": "Monthly Access",
+                "duration": "Monthly",
+                "price": "$87",
+                "discount": "31.53% Off",
+                "note": "No contracts. Cancel anytime.",
+                "button": "Buy Now",
+                "includedTitle": "What's Included:",
+                "features": {
+                    "feature1": "Richard Wyckoff's Comprehensive Course",
+                    "feature2": "Volume Distribution Analysis [VSA] Course",
+                    "feature3": "Daily US PTA Signal Report",
+                    "feature4": "Mastering the Richard Wyckoff Method - Practical Classes for Traders",
+                    "feature5": "Premium Indicators",
+                    "feature6": "Commentary and Market Analysis",
+                    "feature7": "Discord Trading Group 24/7",
+                    "feature8": "Wyckoff Indicators",
+                    "feature9": "Advanced Forex + Price Action Course",
+                    "feature10": "Binance for Beginners - Crypto Course",
+                    "feature11": "Access to the Community"
+                }
+            },
+            "annualAccess": {
+                "tag": "Limited Time Offer",
+                "title": "Annual Access",
+                "duration": "Annual",
+                "oldPrice": "$1,700",
+                "price": "$850",
+                "discount": "50% off",
+                "note": "No contracts. Cancel anytime.",
+                "button": "Buy Now",
+                "includedTitle": "What's Included:",
+                "features": {
+                    "feature1": "Richard Wyckoff's Comprehensive Course",
+                    "feature2": "Volume Distribution Analysis [VSA] Course",
+                    "feature3": "Daily US PTA Signal Report",
+                    "feature4": "Mastering the Richard Wyckoff Method - Practical Classes for Traders",
+                    "feature5": "Premium Indicators",
+                    "feature6": "Commentary and Market Analysis",
+                    "feature7": "Discord Trading Group 24/7",
+                    "feature8": "Wyckoff Indicators",
+                    "feature9": "Advanced Forex + Price Action Course",
+                    "feature10": "Binance for Beginners - Crypto Course",
+                    "feature11": "Access to the Community"
+                }
+            },
+            "lifetimeAccess": {
+                "tag": "Most Popular",
+                "title": "Lifetime Access",
+                "duration": "Lifetime",
+                "oldPrice": "$6,250",
+                "price": "$1,250",
+                "discount": "80% Off",
+                "note": "No contracts. Cancel anytime.",
+                "button": "Buy Now",
+                "includedTitle": "What's Included:",
+                "features": {
+                    "feature1": "Richard Wyckoff's Comprehensive Course",
+                    "feature2": "Volume Distribution Analysis [VSA] Course",
+                    "feature3": "Daily US PTA Signal Report",
+                    "feature4": "Mastering the Richard Wyckoff Method - Practical Classes for Traders",
+                    "feature5": "Premium Indicators",
+                    "feature6": "Commentary and Market Analysis",
+                    "feature7": "Discord Trading Group 24/7",
+                    "feature8": "Wyckoff Indicators",
+                    "feature9": "Advanced Forex + Price Action Course",
+                    "feature10": "Binance for Beginners - Crypto Course",
+                    "feature11": "Access to the Community"
+                }
+            }
+        }
+    },
+    "wyckoffIndicators": {
+        "badge": "Wyckoff Indicators",
+        "title": "How Do Wyckoff Indicators Work?",
+        "description": "Wyckoff-based indicators help traders understand demand, supply, momentum shifts, and market participation directly through chart and volume analysis.",
+        "cards": {
+            "demandSupply": {
+                "title": "Demand & Supply Analysis",
+                "desc": "The indicator highlights potential demand and supply behavior to help traders understand market pressure and possible trend continuation or weakness."
+            },
+            "buyerSellerPressure": {
+                "title": "Buyer & Seller Pressure",
+                "desc": "Visual volume analysis helps identify areas where buyers or sellers may be taking control of the market."
+            },
+            "momentumShift": {
+                "title": "Momentum Shift Detection",
+                "desc": "Recognize possible momentum transitions and market reactions through structured volume interpretation."
+            },
+            "marketReading": {
+                "title": "Structured Market Reading",
+                "desc": "Designed to simplify chart analysis and help traders follow a more disciplined and organized trading workflow."
+            }
+        }
+    },
+    "faq": {
+        "badge": "FAQ's",
+        "title": "Frequently Asked Questions",
+        "description": "Everything you need to know about the platform, indicators, access, and trading workflow.",
+        "searchPlaceholder": "Search FAQs",
+        "clearSearch": "Clear search",
+        "noResults": "No results found for \"{{searchTerm}}\"",
+        "questions": {
+            "question1": {
+                "question": "What are volume indicators?",
+                "answer": "Volume indicators help traders analyze buying and selling activity in the market to better understand momentum, liquidity, and possible trend direction."
+            },
+            "question2": {
+                "question": "Is this platform beginner-friendly?",
+                "answer": "Yes, the platform includes structured educational resources, guided analysis, and trading courses suitable for both beginners and experienced traders."
+            },
+            "question3": {
+                "question": "Which markets can these indicators be used for?",
+                "answer": "The indicators and analysis can be applied to Forex, Crypto, Stocks, Futures, and Indices markets."
+            },
+            "question4": {
+                "question": "How does the platform work?",
+                "answer": "The platform combines volume-based indicators, PTA reports, market analysis, and educational resources to help traders improve market understanding and decision-making."
+            },
+            "question5": {
+                "question": "Is community access included?",
+                "answer": "Yes, selected plans include access to the private trading community for discussions, updates, and shared market insights."
+            },
+            "question6": {
+                "question": "Can I cancel my subscription anytime?",
+                "answer": "Yes, subscription plans can be canceled anytime without long-term contracts."
+            }
+        }
+    },
+    "blogs": {
+        "badge": "Our Blogs",
+        "title": "Learn More About Volume & Market Structure",
+        "description": "Educational resources and trading insights designed to help traders better understand market behavior.",
+        "page": {
+            "badge": "Our Blogs",
+            "title": "News, insights and more",
+            "description": "Dive into our blog for expert insights, tips, and industry trends to elevate your project management journey.",
+            "searchPlaceholder": "Search for Blogs",
+            "clearSearch": "Clear search",
+            "noResults": "No blogs found for \"{{searchTerm}}\"",
+            "emptyState": "No blog posts published yet.",
+            "error": "We couldn't load blogs right now.",
+            "tryAgain": "Try again",
+            "loadMore": "Load more",
+            "loadingMore": "Loading...",
+            "defaultCategory": "Trading Insights",
+            "readMore": "Learn More",
+            "posts": {
+                "post1": {
+                    "category": "Digital Marketing",
+                    "date": "Jul 31, 2026",
+                    "title": "Strategies for Boosting Online Engagement Today",
+                    "button": "Learn More"
+                },
+                "post2": {
+                    "category": "Digital Marketing",
+                    "date": "Oct 11, 2024",
+                    "title": "User-Centric Product Design, A Complete Guide From Scratch",
+                    "button": "Learn More"
+                },
+                "post3": {
+                    "category": "Digital Marketing",
+                    "date": "Jul 7, 2024",
+                    "title": "Top Design Trends Driving Business Success & Growth",
+                    "button": "Learn More"
+                },
+                "post4": {
+                    "category": "Digital Marketing",
+                    "date": "Jul 31, 2026",
+                    "title": "Creating a Brand Identity That Stands Out",
+                    "button": "Learn More"
+                },
+                "post5": {
+                    "category": "Digital Marketing",
+                    "date": "Oct 11, 2024",
+                    "title": "The Power of Storytelling and Visual Elements in Branding",
+                    "button": "Learn More"
+                },
+                "post6": {
+                    "category": "Digital Marketing",
+                    "date": "Jul 7, 2024",
+                    "title": "Innovative Web Design Techniques for Modern Brands",
+                    "button": "Learn More"
+                },
+                "post7": {
+                    "category": "Digital Marketing",
+                    "date": "Jul 31, 2026",
+                    "title": "Strategies for Boosting Online Engagement Today",
+                    "button": "Learn More"
+                },
+                "post8": {
+                    "category": "Digital Marketing",
+                    "date": "Oct 11, 2024",
+                    "title": "User-Centric Product Design, A Complete Guide From Scratch",
+                    "button": "Learn More"
+                },
+                "post9": {
+                    "category": "Digital Marketing",
+                    "date": "Jul 7, 2024",
+                    "title": "Top Design Trends Driving Business Success & Growth",
+                    "button": "Learn More"
+                }
+            }
+        },
+        "cards": {
+            "blog1": {
+                "category": "Digital Marketing",
+                "date": "Jul 31, 2026",
+                "title": "Strategies for Boosting Online Engagement Today",
+                "button": "Learn More"
+            },
+            "blog2": {
+                "category": "Digital Marketing",
+                "date": "Oct 11, 2024",
+                "title": "User-Centric Product Design, A Complete Guide From Scratch",
+                "button": "Learn More"
+            },
+            "blog3": {
+                "category": "Digital Marketing",
+                "date": "Jul 7, 2024",
+                "title": "Top Design Trends Driving Business Success & Growth",
+                "button": "Learn More"
+            }
+        },
+        "allBlogsButton": "All Blogs",
+        "detail": {
+            "backToBlogs": "Back to Blogs",
+            "similarBlogs": "Similar Blogs",
+            "allBlogs": "All Blogs",
+            "defaultAuthor": "Volume Day Trader",
+            "notFoundTitle": "Blog not found",
+            "notFoundDescription": "The blog post you are looking for does not exist.",
+            "posts": {
+                "post1": {
+                    "author": "Jakob Lipshutz",
+                    "date": "May 15, 2025",
+                    "excerpt": "Learn effective strategies to increase online engagement, foster stronger connections with your audience, and build a more loyal community for your brand.",
+                    "section1Title": "Key Strategies for Boosting Engagement:",
+                    "section1Body": "- Leverage Social Media Stories and Reels: Use short-form content on platforms like Instagram and TikTok to capture attention, entertain, and encourage interaction.\n- Host Interactive Polls and Q&A Sessions: Engage your audience by actively involving them in decision-making processes or addressing their questions in real-time.\n- Encourage User-Generated Content: Motivate your community to share their experiences with your brand, and showcase their content on your social channels to build authenticity.\n- Personalize Content for Your Audience: Use data and insights to create personalized experiences that resonate with your followers' preferences and behaviors.\n- Create Shareable and Valuable Content: Focus on delivering content that adds value to your audience's lives-whether it's educational, entertaining, or inspiring-and encourages them to share it with others.",
+                    "section2Title": "Understanding the Power of Online Engagement:",
+                    "section2Body": "In today's digital world, online engagement is critical for building relationships, driving brand awareness, and fostering loyalty. Engaged audiences are more likely to trust your brand, interact with your content, and become advocates. By prioritizing engagement, businesses can tap into valuable insights about their audience's needs and preferences, and ultimately, boost conversions and growth.",
+                    "section3Title": "Conclusion:",
+                    "section3Body": "Boosting online engagement is essential for long-term success in today's digital landscape. By utilizing interactive content, leveraging social media trends, and personalizing your approach, you can foster stronger connections with your audience and increase brand visibility. Remember that engagement is a two-way street-actively listen to your community, provide value, and create opportunities for meaningful interactions to keep them coming back."
+                }
+            }
+        }
+    },
+    "contactPage": {
+        "badge": "Contact Us",
+        "title": "Get in Touch With Us",
+        "description": "Reach out to us for inquiries, collaborations, or to discuss your project needs.",
+        "form": {
+            "firstName": "First Name",
+            "firstNamePlaceholder": "Enter your first name",
+            "lastName": "Last Name",
+            "lastNamePlaceholder": "Enter your last name",
+            "email": "Email Address",
+            "emailPlaceholder": "Enter your email address",
+            "phone": "Phone Number",
+            "phonePlaceholder": "Your phone number",
+            "message": "Message",
+            "messagePlaceholder": "Write your message here...",
+            "submit": "Submit",
+            "submitting": "Submitting...",
+            "successMessage": "Your email was successfully received and a ticket has been generated.",
+            "ticketLabel": "Ticket: {{ticket}}",
+            "errorMessage": "Something went wrong. Please try again later.",
+            "errors": {
+                "required": "This field is required.",
+                "emailInvalid": "Enter a valid email address.",
+                "phoneInvalid": "Enter a valid phone number for the selected country.",
+                "messageMin": "Message must be at least 10 characters."
+            }
+        }
+    },
+    "howIndicatorsWork": {
+        "badge": "How Indicators Work",
+        "title": "What Will You Get When You Trade with Us?",
+        "description": "Join the affiliate program and earn commissions by introducing traders to the platform.",
+        "sections": {
+            "platform": {
+                "title": "Wyckoff Wave Volume for TradingView & MT4/MT5 Platform",
+                "body": "Wyckoff Wave Volume is the best tool to identify turning points in all markets. Money plays in the market, not set ups. Therefore, in order to earn money, you must play in the same direction as the professionals! It is thanks to the observation of the volume that you can know which side the professionals (Smart Money) are on and trade in accordance with their direction. You can also \"look\" inside the chart and see on the numbers or graphical histogram who controls the market at a given moment – Buyer or the Seller."
+            },
+            "beginning": {
+                "title": "Let's Start from the Beginning!",
+                "body": "Wyckoff Wave Charts created by Richard Wyckoff were a breakthrough in technical analysis. In his famous technical analysis course, he told his students to \"think like waves\". Volume analysis was an integral part of his way of investing. Using Wyckoff Cumulative Volume you will be surprised how well it identifies turning points in all markets and on any time frame.\n\nSurely you know what regular volume candles look like on a chart. Here, we will introduce you to a different view of the market and show you how to study this market and read the intentions of large players. This system is based on volume plotted on waves – aka Wave Volume – (supply/demand) that works in all markets. This system is the result of many years of work by Richard Wyckoff (a Wall Street pioneer from the 1920s and 1930s), who studied price, volume and its impact on the market. This tool is very helpful in predicting trend changes in all markets like forex, crypto, futures and stocks."
+            },
+            "whatIs": {
+                "title": "What Is Wyckoff Wave Volume and How Does It Work?",
+                "body": "It is the sum of exchanged (sold/bought) shares or contracts on a given wave (downward or upward) in a given time."
+            },
+            "eurusd": {
+                "alt": "EUR/USD Wyckoff wave volume chart example",
+                "body": "In the EUR/USD chart, we see a classic accumulation that retains all the features associated with a change in the direction of the market. Here, the usual volume is quite important, on which we see the greatest activity. If such extremely high activity occurs after rapid declines, it means a kind of panic – some people sell in panic, others (Smart Money) take advantage of \"low prices\" and buy [stopping volume]. The difference between regular volume and cumulative volume is quite significant because only wave volume shows large purchases or their absence. In this case, right after the low, we see a huge volume wave of 330, which means that buyers are entering the market.\n\nIn the next phase of the market, we see the market again trying to follow the declines, but the sellers clearly lose strength – 49, 27, 23. This is a sign of a lack of supply. Then after a \"false breakout\" the market returns to the trading range and finally breaks it out, showing the power of buyers, which you will not see on ordinary volume."
+            },
+            "gbpusd": {
+                "alt": "GBP/USD Wyckoff wave volume chart example",
+                "body": "In the GBP/USD chart, we see a typical distribution action after big gains. The market changes direction showing a sell-off on volume-marked waves. Wave 46 is the largest downward wave, after which the market forms two successive highs with very weak demand – 9 and 10. Then there is another strong sell-off – 50, after which the market again tries to follow the main direction, but the demand is too weak.\n\nHigh volume on downward waves means sellers are taking over. After breaking the support, the market tests the breakout point, but again we can see the lack of demand – 9. The volume histogram also shows us that the successive peaks are at a decreasing volume and the lows at a very high volume – this is a picture of the distribution of forces. Sellers are taking control and we can expect declines. Usually, volume candles do not give us important information about what is happening on the waves."
+            },
+            "sp500": {
+                "alt": "S&P 500 Wyckoff wave volume chart example",
+                "body": "On the S&P500 chart, we see a change in market behavior – an accumulation process. The waves on which the volume is plotted show a clear decrease in selling power 354, 53, 48. The first entry of buyers is marked after the low of 354. The wave 278 is the immediate reaction of buyers and is the greatest show of strength. After the selling power is completely exhausted, the buyers take control of the market, which can be seen by the reaction strength – 474, 235, 308. The market, after hitting the Accumulation Rank, tests this level again, but we see that the supply power drops immediately (78, 7, 3, 2, 9) which is confirmed by a well-prepared market for growth."
+            },
+            "dac": {
+                "alt": "Danaos Corporation stock Wyckoff wave volume chart"
+            },
+            "wwcv": {
+                "title": "Wyckoff Wave Cumulative Volume [WWCV]",
+                "body": "also works great on the stock market on any time frame. We see a great example of accumulation in the stock of Danaos Corporation [DAC]. During one session, stocks (information from the market) recorded a strong decline – 174. However, as you can see on the chart, prices in the next three months formed a sideways trend. At the beginning of December, there was an attempt to break this chart down.\n\nWe see a very strong volume on a downward wave, but prices very quickly return to the rank determined by the low marked with volume 174. After this low, which is a typical trap, the market again set a higher low at three times lower volume – 70. Immediately after that we have another show of strength on subsequent peaks and finally the market breaks the range on the highest volume – 263. On the histogram we can see how the volume on the tops increases on subsequent waves, which we do not see on the usual volume used by most traders."
+            },
+            "dacSession": {
+                "alt": "Danaos Corporation session Wyckoff wave volume chart"
+            },
+            "bitcoin": {
+                "alt": "Bitcoin Wyckoff wave volume chart example",
+                "body": "Unlike standard volume, volume on waves is very precise and gives the trader much more information about potential turning points to increase the effectiveness in trading or day trading. Recent increases in the cryptocurrency market have also been completed with a very large sell-off, which was perfectly presented by the wave volume charts. After Bitcoin reached the peaks around USD 68k, there was the strongest sale since the moments of growth marked – 203. This is the first realization of large profits. The next sell-off was carried out on a very short wave but with a very strong volume – 196.\n\nThese two lows set the level of the lower limit of the distribution process. The next high (150) was only marked by daily candles whose sessions closed below the previous high (305) – a sign of weakness. This volume was half smaller than at the previous peak. From that moment, we had declines every day, which marked the next low with the strongest downward volume in the distribution process. After breaking the support line, the price only once returned to the range with a very small volume, which confirmed the lack of supply and the continuation of declines until around USD 15k. In addition, the histogram shows how the predominance of the downward volume is growing (red)."
+            },
+            "dq": {
+                "body": "In the chart above, we see the shares of Daq New Energy Corp [DQ]. It is characteristic to arrange prices in a sideways trend for each type of accumulation, where a large sell-off generated does not lead to further declines. This is the absorption effect. A big sell-off is absorbed by big corporate players. In the second half of April, there is even an attempt to break this range down, however, the candles close above the support.\n\nThe last low marked a price of $40.89 where the large supply was completely absorbed by buyers and immediately after that buyers took the price to a new high, breaking the trading range up. Re-traversal waves after such a strong breakout area of a corrective nature because they are made on a very small volume – buyers have lost power and buyers have taken full control. The sign of strength highlighted in the chart is a typical pattern in Wyckoff analysis, which is perfectly explained in Richard Wyckoff's course for annual subscribers. This type of formation is a very common phenomenon in every market and in every time frame."
+            }
+        }
+    },
+    "footer": {
+        "cta": {
+            "title": "Follow Smart Money. Trade With Structure.",
+            "description": "Professional volume indicators and structured market insights designed for smarter trading decisions.",
+            "button": "Get Access"
+        },
+        "company": {
+            "name": "VolumeDayTrader.com",
+            "consultationTitle": "Book a Call For Free Consultation",
+            "consultationDescription": "Professional volume indicators, PTA signal reports, market analysis, and structured trading education designed for smarter trading decisions.",
+            "socialTitle": "Our Social Handles"
+        },
+        "navigation": {
+            "home": "Home",
+            "indicators": "Indicators",
+            "ptaReports": "PTA Reports",
+            "pricing": "Pricing",
+            "tradingCommunity": "Trading Community",
+            "marketAnalysis": "Market Analysis"
+        },
+        "resources": {
+            "title": "Resources",
+            "blogs": "Blogs",
+            "tradingEducation": "Trading Education",
+            "faq": "FAQ",
+            "affiliateProgram": "Affiliate Program"
+        },
+        "contact": {
+            "title": "Contact",
+            "support": "Support",
+            "affiliateSupport": "Affiliate Support"
+        },
+        "riskDisclaimerLabel": "Risk Disclaimer:",
+        "riskDisclaimer": "Trading financial instruments carries a high level of risk and may not be suitable for all investors. Past performance is not indicative of future results. The content on VOLTRA.fi is for educational purposes only and does not constitute financial advice. Trade at your own risk."
+    }
+}
