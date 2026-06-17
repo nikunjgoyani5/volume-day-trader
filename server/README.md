@@ -142,6 +142,13 @@ server/
 | [docs/POSTMAN.md](./docs/POSTMAN.md) | Postman import and environment setup |
 | [docs/postman/VolumeDayTrader-Auth.postman_collection.json](./docs/postman/VolumeDayTrader-Auth.postman_collection.json) | Postman — all APIs (Health, Auth, Inquiries) |
 
+## Deployment notes
+
+- Deployment is currently manual and managed on an internal server.
+- Current API base (provided operationally): `http://64.227.173.140:5010/api/`
+- MongoDB database name in use: `vdt-stage` (credentials omitted; configure via `MONGODB_URI` in `.env`)
+- Do not store secrets or admin passwords in repository files.
+
 ## Security notes
 
 - Never commit `.env` or real API keys.
